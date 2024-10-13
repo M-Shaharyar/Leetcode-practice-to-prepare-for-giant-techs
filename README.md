@@ -6,7 +6,7 @@ The repository contains all the course-relevant material, such as slides, lectur
 **Beginner Friendly LeetCode practice session Lectures** This course is designed for absolute beginners helping them kick off their coding journey. We will cover
  everything from Arrays 𝘁𝗼 Space and Time Complexity and Queue.
 
-**Presenters Name:** [Click here](https://docs.google.com/spreadsheets/d/1y15OtddQcgPMXJeaTbHz687OavvLrTEjzEv-9cNnNeo/edit?usp=sharing)
+**Presenters Names:** [Click here](https://docs.google.com/spreadsheets/d/1y15OtddQcgPMXJeaTbHz687OavvLrTEjzEv-9cNnNeo/edit?usp=sharing)
 
 **Join Our Community on [iCodeGuru](https://icode.guru/join/)**
 
@@ -226,7 +226,7 @@ The repository contains all the course-relevant material, such as slides, lectur
        <td align="center"><b>Binary Search </b></td>
        <td align="center"><a href="https://fb.watch/uIaPNDcCkK/"> Lecture Recording</a> </td>
         <td align="center" ><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/description/">Peak index in a mountain array</a>
-                            <td align="center" ><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/description/">Peak index in a mountain array</a></td  
+                            </td  
         </td>
     </tr>
 </tbody>
@@ -325,3 +325,52 @@ The repository contains all the course-relevant material, such as slides, lectur
     </tr>
 </tbody>
 <table>
+
+
+# Week 07
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topics</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>1</b></td>
+       <td align="center"><b>Stack</b></td>
+       <td align="center"><a href="https://fb.watch/uMWGbqAtWs/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/12qLGvauNxfjJB2J8rKIFiy707D1w50iA?usp=sharing">Stack Implementation</a></td>
+    </tr>
+      <tr>
+    <td align="center"><b>2</b></td>
+    <td align="center"><b>Stack</b></td>
+    <td align="center"><a href="https://fb.watch/uOb2JHkQ30/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://leetcode.com/problems/valid-parentheses/description/">Valid parentheses</a>
+     <a href="https://leetcode.com/problems/backspace-string-compare/">Backspace string compare</a>
+    </td  
+  </tr>  
+  <tr>
+       <td align="center"><b>3</b></td>
+       <td align="center"><b>Stack</b></td>
+       <td align="center"><a href="https://fb.watch/uRdBoLmd2i/">Lecture Recording</td>
+      <td align="center" ><a href="https://leetcode.com/problems/make-the-string-great/description/">Make the string great</a>
+      <a href="https://leetcode.com/problems/baseball-game/description/">Baseball game</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>4</b></td>
+       <td align="center"><b>Queue </b></td>
+       <td align="center"><a href="https://fb.watch/uRdjIqN55y/"> Lecture Recording</a> </td>
+      <td align="center" ><a href="https://colab.research.google.com/drive/1TutuIVjWuZyhEZgkrba1zb5-cD0ehJXX?usp=sharing">Queue Implementation</a></td  
+    </tr>
+    <tr>
+       <td align="center"><b>5</b></td>
+       <td align="center"><b>Queue</b></td>
+       <td align="center"><a href="https://fb.watch/uSbnyqgpMw/"> Lecture Recording</a> </td>
+        <td align="center" ><a href="https://leetcode.com/problems/sliding-window-maximum/description/">Sliding window maximum</a></td  
+        </td>
+    </tr>
+</tbody>
+<table>
+
