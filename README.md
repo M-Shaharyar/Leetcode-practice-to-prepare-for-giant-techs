@@ -66,25 +66,261 @@ The repository contains all the course-relevant material, such as slides, lectur
     <td align="center"><b>2</b></td>
     <td align="center"><b>Arrays</b></td>
     <td align="center"><a href="https://fb.watch/tWUyOYQLmB/">Lecture Recording</a></td>
-    <td align="center" ><a href="https://leetcode.com/problems/contains-duplicate/description/">Contains Duplicate</a></td  
+    <td align="center" ><a href="https://leetcode.com/problems/contains-duplicate/description/">Contains Duplicate</a>
+                        <a href="https://leetcode.com/problems/two-sum/">Two Sum</a> 
+                        <a href="https://leetcode.com/problems/palindrome-number/submissions/1354097172/">Palindrome Number</a> </td  
   </tr>  
   <tr>
        <td align="center"><b>3</b></td>
-       <td align="center"><b>Variables</b></td>
-       <td align="center"><a href="https://fb.watch/u5LWSPoUaF/">Lecture Recording</a></td>
-      <td align="center" ><a href="https://colab.research.google.com/drive/1aIlv1sc9qKslHIPT-i1-2ff1dFVtvDd3?usp=sharing">Colab Notebook</a></td>
+       <td align="center"><b>Arrays</b></td>
+       <td align="center"><a href="https://fb.watch/tY931iltzl/">Lecture Recording</a></td>
+      <td align="center" ><a href="https://leetcode.com/problems/length-of-last-word/">Length of last word</a></td>
     </tr>
     <tr>
        <td align="center"><b>4</b></td>
-       <td align="center"><b>Data Type and Operators </b></td>
-       <td align="center"><a href="https://fb.watch/uaWZOQVbQZ/"> Lecture Recording</a> </td>
-      <td align="center" ><a href="https://colab.research.google.com/drive/1wlgghjnmMolJwhBJyXGq2Z0ex2oYVp_R?usp=sharing">Colab Notebook</a></td>
+       <td align="center"><b>Time Complexity</b></td>
+       <td align="center"><a href="https://fb.watch/tZw83rMggB/"> Lecture Recording</a> </td>
+      <td align="center" ><a href="https://docs.google.com/presentation/d/16Pev1IkXbiNPTDqfafUv65Lin2_av3Y6ncpnMWSu5Kc/edit#slide=id.g2f309743f0f_2_112">Slides</a></td>
     </tr>
     <tr>
        <td align="center"><b>5</b></td>
-       <td align="center"><b>Operators and Strings </b></td>
-       <td align="center"><a href="https://fb.watch/u9TP3AEJWt/"> Lecture Recording</a> </td>
-        <td align="center" ><a href="https://colab.research.google.com/drive/1XSMkpSvV3_KK8j2uy2n2W4TT7zqIrq0Z?usp=sharing">Colab Notebook</a> </br>
+       <td align="center"><b>Arrays </b></td>
+       <td align="center"><a href="https://fb.watch/t_Rh-dvilt/"> Lecture Recording</a> </td>
+        <td align="center" ><a href="https://leetcode.com/problems/shuffle-the-array/description/">Shuffle the array</a>
+                             <a href="https://leetcode.com/problems/fizz-buzz/description/">Fizz buzz</a> </br>
+        </td>
+    </tr>
+</tbody>
+<table>
+
+
+# Week 02
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topics</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>1</b></td>
+       <td align="center"><b>Space and Time Complexity</b></td>
+       <td align="center"><a href="https://fb.watch/u2QEp4JTOi/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://docs.google.com/presentation/d/16Pev1IkXbiNPTDqfafUv65Lin2_av3Y6ncpnMWSu5Kc/edit#slide=id.g2f309743f0f_2_112">Slides</a></td>
+    </tr>
+      <tr>
+    <td align="center"><b>2</b></td>
+    <td align="center"><b>Hash Table</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/526012746662201">Lecture Recording</a></td>
+    <td align="center" ><a href="https://leetcode.com/problems/backspace-string-compare/">Backspace string compare</a>
+                        <a href="https://leetcode.com/problems/shuffle-string/submissions/1362225376/">Shuffle String</a> </td  
+  </tr>  
+  <tr>
+       <td align="center"><b>3</b></td>
+       <td align="center"><b>Hash Table</b></td>
+       <td align="center"><a href="https://fb.watch/u5pN05ztmO/">Lecture Recording</a></td>
+      <td align="center" ><a href="https://leetcode.com/problems/backspace-string-compare/">Length of last word</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>4</b></td>
+       <td align="center"><b>Hash Table</b></td>
+       <td align="center"><a href="https://fb.watch/ubaHWBQHkz/"> Lecture Recording</a> </td>
+      <td align="center" ><a href="https://leetcode.com/problems/backspace-string-compare/">Backspace string compare</a>
+                        <a href="https://leetcode.com/problems/shuffle-string/submissions/1362225376/">Shuffle String</a> </td  
+    </tr>
+    <tr>
+       <td align="center"><b>5</b></td>
+       <td align="center"><b>Hash Table </b></td>
+       <td align="center"><a href="https://fb.watch/ubaIFxafXb/"> Lecture Recording</a> </td>
+        <td align="center" ><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/description/">Reverse nodes in k group</a></td  
+        </td>
+    </tr>
+</tbody>
+<table>
+
+
+# Week 03
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topics</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>1</b></td>
+       <td align="center"><b>Binary Search</b></td>
+       <td align="center"><a href="https://fb.watch/ueY7p-WgYW/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in rotated sorted array</a></td>
+    </tr>
+      <tr>
+    <td align="center"><b>2</b></td>
+    <td align="center"><b>Binary Search</b></td>
+    <td align="center"><a href="https://fb.watch/ueXXrWIESb/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://leetcode.com/problems/backspace-string-compare/">Backspace string compare</a>
+                        <a href="https://leetcode.com/problems/shuffle-string/submissions/1362225376/">Shuffle String</a> </td  
+  </tr>  
+  <tr>
+       <td align="center"><b>3</b></td>
+       <td align="center"><b>Binary Search</b></td>
+       <td align="center"><a href="https://fb.watch/ueGx3r95LX/">Lecture Recording</a></td>
+      <td align="center" ><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in rotated sorted array</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>4</b></td>
+       <td align="center"><b>Binary Search</b></td>
+       <td align="center"><a href="https://fb.watch/ufZbvG_ei3/"> Lecture Recording</a> </td>
+      <td align="center" ><a href="https://leetcode.com/problems/sqrtx/description/">Sqrtx</a></td  
+    </tr>
+    <tr>
+       <td align="center"><b>5</b></td>
+       <td align="center"><b>Binary Search </b></td>
+       <td align="center"><a href="https://fb.watch/uIaJUB2dxz/"> Lecture Recording</a> </td>
+        <td align="center" ><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/description/">Peak index in a mountain array</a></td  
+        </td>
+    </tr>
+</tbody>
+<table>
+
+
+# Week 04
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topics</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>1</b></td>
+       <td align="center"><b>Binary Search</b></td>
+       <td align="center"><a href="https://fb.watch/unPVZM_bm4/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/">Find the student that will replace the- halk</a></td>
+    </tr>
+      <tr>
+    <td align="center"><b>2</b></td>
+    <td align="center"><b>Binary Search</b></td>
+    <td align="center"><a href="https://fb.watch/umzslQYOoi/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://excalidraw.com/#json=Cyb6R0URfcMx7a8bjVNuT,hAaX7HMnxstizCgz4_iWbw">Mathematical Proof</a></td  
+  </tr>  
+  <tr>
+       <td align="center"><b>3</b></td>
+       <td align="center"><b>Binary Search</b></td>
+       <td align="center"><a href="https://fb.watch/upbOJB4NWy/">Lecture Recording</a></td>
+      <td align="center" ><a href="https://leetcode.com/problems/number-of-good-pairs/">Number of good pairs</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>4</b></td>
+       <td align="center"><b>Binary Search</b></td>
+       <td align="center"><a href="https://fb.watch/upbCn-u8i0/"> Lecture Recording</a> </td>
+      <td align="center" ><a href="https://leetcode.com/problems/is-subsequence/">Is subsequence</a></td  
+    </tr>
+    <tr>
+       <td align="center"><b>5</b></td>
+       <td align="center"><b>Binary Search </b></td>
+       <td align="center"><a href="https://fb.watch/uIaPNDcCkK/"> Lecture Recording</a> </td>
+        <td align="center" ><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/description/">Peak index in a mountain array</a>
+                            <td align="center" ><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/description/">Peak index in a mountain array</a></td  
+        </td>
+    </tr>
+</tbody>
+<table>
+
+
+# Week 05
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topics</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>1</b></td>
+       <td align="center"><b>Two Pointer</b></td>
+       <td align="center"><a href="https://fb.watch/uuSK2lwZn6/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/">Sum of digits of string after convert</a></td>
+    </tr>
+      <tr>
+    <td align="center"><b>2</b></td>
+    <td align="center"><b>Two Pointer</b></td>
+    <td align="center"><a href="https://fb.watch/uvNQgBtU71/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/">Remove duplicates from sorted array</a>
+     <a href="https://leetcode.com/problems/sort-array-by-parity/">Sort array by parity</a>
+    </td  
+  </tr>  
+  <tr>
+       <td align="center"><b>3</b></td>
+       <td align="center"><b>Two Pointer</b></td>
+       <td align="center">Missing</td>
+      <td align="center" ><a href="https://leetcode.com/problems/container-with-most-water/">Check if two string arrays are equivalent</a>
+      <a href="https://leetcode.com/problems/container-with-most-water/">Container with most water</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>4</b></td>
+       <td align="center"><b>Two Pointer</b></td>
+       <td align="center"><a href="https://fb.watch/uysfpNJqNx/"> Lecture Recording</a> </td>
+      <td align="center" ><a href="https://leetcode.com/problems/rotate-array/">Rotate array</a></td  
+    </tr>
+    <tr>
+       <td align="center"><b>5</b></td>
+       <td align="center"><b>Two Pointer </b></td>
+       <td align="center"><a href="https://fb.watch/uzPG--akH9/"> Lecture Recording</a> </td>
+        <td align="center" ><a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/description/">Reverse words in a string iii</a></td  
+        </td>
+    </tr>
+</tbody>
+<table>
+
+
+# Week 06
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topics</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>1</b></td>
+       <td align="center"><b>Sliding Window</b></td>
+       <td align="center"><a href="https://fb.watch/uDHqEJv2g6/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://leetcode.com/problems/contains-duplicate-ii/submissions/">Contains duplicate ii</a></td>
+    </tr>
+      <tr>
+    <td align="center"><b>2</b></td>
+    <td align="center"><b>Sliding Window</b></td>
+    <td align="center"><a href="https://fb.watch/uIaTgOxmKj/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest substring without repeating characters</a>
+    </td  
+  </tr>  
+  <tr>
+       <td align="center"><b>3</b></td>
+       <td align="center"><b>Sliding Window</b></td>
+       <td align="center"><a href="https://fb.watch/uHEeeaHo61/">Lecture Recording</td>
+      <td align="center" ><a href="https://leetcode.com/problems/shortest-distance-to-a-character/description/">Shortest distance to a character</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>4</b></td>
+       <td align="center"><b>Sliding Window</b></td>
+       <td align="center"><a href="https://fb.watch/uHEiVHm0t_/"> Lecture Recording</a> </td>
+      <td align="center" ><a href="https://leetcode.com/problems/rotate-array/description/">Rotate array</a></td  
+    </tr>
+    <tr>
+       <td align="center"><b>5</b></td>
+       <td align="center"><b>Sliding Window</b></td>
+       <td align="center"><a href="https://fb.watch/uJicYF-3BZ/"> Lecture Recording</a> </td>
+        <td align="center" ><a href="https://leetcode.com/problems/move-zeroes/description/">Move zeroes</a></td  
         </td>
     </tr>
 </tbody>
