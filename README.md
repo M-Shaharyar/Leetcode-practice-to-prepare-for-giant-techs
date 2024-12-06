@@ -24,9 +24,9 @@ The repository contains all the course-relevant material, such as slides, lectur
             </td>
             <td align="center">
                 <a href="https://www.linkedin.com/in/munnammalik/">
-                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQHsz_QI7YhNcw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715754868207?e=1734566400&v=beta&t=tFoKmwDWPhCqBXddSiYYdhQYZEYCPlflyBkxQTjogSw" width="100px; alt="Abdul Munnam"/>
+                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQE5JFak04cAXg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731133442665?e=1738800000&v=beta&t=vK0nH2OGLKGUbNhmrXJEtBuOw5knOY87ceOGc2gD6oY" width="100px; alt="Abdul Munnam"/>
                     <br />
-                    <sub><b>Muhammad Saqlain</b></sub>
+                    <sub><b>Abdul Munnam</b></sub>
                 </a> 
             </td>
            <td align="center">
