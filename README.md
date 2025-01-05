@@ -31,7 +31,7 @@ The repository contains all the course-relevant material, such as slides, lectur
             </td>
            <td align="center">
                 <a href="https://www.linkedin.com/in/ifrah-tariq2/">
-                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQE2RX6RUh_xdg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715334229170?e=1734566400&v=beta&t=IjW8QKc0urKlHAuINfcot-gdHVgBGyn0EXs7GXuLYQY" width="100px; alt="Ifrah Tariq"/>
+                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQGGEhIM7Mza2w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1675455231367?e=1741824000&v=beta&t=oW2BYEKoykXgpqB0iMNtPq1XGCpdXXeQ5vqv3R-Ijko" width="100px; alt="Ifrah Tariq"/>
                     <br />
                     <sub><b>Muhammad Saqlain</b></sub>
                 </a> 
