@@ -55,45 +55,55 @@ The repository contains all the course-relevant material, such as slides, lectur
      <tr>
       <th>Days</th>
       <th>Topics</th>
-      <th>Video Links (Facebook)</br></th>
+      <th>Video Links (Facebook)</th>
       <th>Material</th>
+      <th>Presenter Name</th>
      </tr> 
-    <tr>
+     <tr>
        <td align="center"><b>1</b></td>
-       <td align="center"><b>Introduction of DSA </b></td>
+       <td align="center"><b>Introduction of DSA</b></td>
        <td align="center"><a href="https://fb.watch/tVyK3G5PNY/">Lecture Recording</a></td>
-    <td align="center" ><a href="https://docs.google.com/presentation/d/1n9oQD2VZvktwXqQ-yfRCys4pd7CkfxGN5CzN4r36wWU/edit?usp=sharing">Slides</a></td>
-    </tr>
-      <tr>
-    <td align="center"><b>2</b></td>
-    <td align="center"><b>Arrays</b></td>
-    <td align="center"><a href="https://fb.watch/tWUyOYQLmB/">Lecture Recording</a></td>
-    <td align="center" ><a href="https://leetcode.com/problems/contains-duplicate/description/">Contains Duplicate</a>
-                        <a href="https://leetcode.com/problems/two-sum/">Two Sum</a> 
-                        <a href="https://leetcode.com/problems/palindrome-number/submissions/1354097172/">Palindrome Number</a> </td  
-  </tr>  
-  <tr>
+       <td align="center"><a href="https://docs.google.com/presentation/d/1n9oQD2VZvktwXqQ-yfRCys4pd7CkfxGN5CzN4r36wWU/edit?usp=sharing">Slides</a></td>
+       <td align="center">Ali</td>
+     </tr>
+     <tr>
+       <td align="center"><b>2</b></td>
+       <td align="center"><b>Arrays</b></td>
+       <td align="center"><a href="https://fb.watch/tWUyOYQLmB/">Lecture Recording</a></td>
+       <td align="center">
+          <a href="https://leetcode.com/problems/contains-duplicate/description/">Contains Duplicate</a><br>
+          <a href="https://leetcode.com/problems/two-sum/">Two Sum</a><br>
+          <a href="https://leetcode.com/problems/palindrome-number/submissions/1354097172/">Palindrome Number</a>
+       </td>
+       <td align="center">Ali</td>
+     </tr>  
+     <tr>
        <td align="center"><b>3</b></td>
        <td align="center"><b>Arrays</b></td>
        <td align="center"><a href="https://fb.watch/tY931iltzl/">Lecture Recording</a></td>
-      <td align="center" ><a href="https://leetcode.com/problems/length-of-last-word/">Length of last word</a></td>
-    </tr>
-    <tr>
+       <td align="center"><a href="https://leetcode.com/problems/length-of-last-word/">Length of last word</a></td>
+       <td align="center">Ali</td>
+     </tr>
+     <tr>
        <td align="center"><b>4</b></td>
        <td align="center"><b>Time Complexity</b></td>
-       <td align="center"><a href="https://fb.watch/tZw83rMggB/"> Lecture Recording</a> </td>
-      <td align="center" ><a href="https://docs.google.com/presentation/d/16Pev1IkXbiNPTDqfafUv65Lin2_av3Y6ncpnMWSu5Kc/edit#slide=id.g2f309743f0f_2_112">Slides</a></td>
-    </tr>
-    <tr>
+       <td align="center"><a href="https://fb.watch/tZw83rMggB/">Lecture Recording</a></td>
+       <td align="center"><a href="https://docs.google.com/presentation/d/16Pev1IkXbiNPTDqfafUv65Lin2_av3Y6ncpnMWSu5Kc/edit#slide=id.g2f309743f0f_2_112">Slides</a></td>
+       <td align="center">Ali</td>
+     </tr>
+     <tr>
        <td align="center"><b>5</b></td>
-       <td align="center"><b>Arrays </b></td>
-       <td align="center"><a href="https://fb.watch/t_Rh-dvilt/"> Lecture Recording</a> </td>
-        <td align="center" ><a href="https://leetcode.com/problems/shuffle-the-array/description/">Shuffle the array</a>
-                             <a href="https://leetcode.com/problems/fizz-buzz/description/">Fizz buzz</a> </br>
-        </td>
-    </tr>
-</tbody>
-<table>
+       <td align="center"><b>Arrays</b></td>
+       <td align="center"><a href="https://fb.watch/t_Rh-dvilt/">Lecture Recording</a></td>
+       <td align="center">
+          <a href="https://leetcode.com/problems/shuffle-the-array/description/">Shuffle the array</a><br>
+          <a href="https://leetcode.com/problems/fizz-buzz/description/">Fizz buzz</a>
+       </td>
+       <td align="center">Ali</td>
+     </tr>
+    </tbody>
+</table>
+
 
 
 # Week 02
