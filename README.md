@@ -17,28 +17,28 @@ The repository contains all the course-relevant material, such as slides, lectur
         <tr>
             <td align="center">
                 <a href="https://www.linkedin.com/in/muhammad-shaharyar-sarwar/">
-                    <img src= "https://avatars.githubusercontent.com/u/88059515?v=4" width="100px;" alt="Muhammad Shaharyar"/>
+                    <img src= "https://github.com/M-Shaharyar/1pm-leetcode-practice-to-prepare-for-giant-techs/blob/main/images/M.Shaharyar.jpeg" width="100px;" alt="Muhammad Shaharyar"/>
                     <br />
                     <sub><b>Muhammad Shaharyar</b></sub>
                 </a> 
             </td>
             <td align="center">
                 <a href="https://www.linkedin.com/in/munnammalik/">
-                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQE5JFak04cAXg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731133442665?e=1738800000&v=beta&t=vK0nH2OGLKGUbNhmrXJEtBuOw5knOY87ceOGc2gD6oY" width="100px; alt="Abdul Munnam"/>
+                    <img src="https://github.com/M-Shaharyar/1pm-leetcode-practice-to-prepare-for-giant-techs/blob/main/images/Abdul%20Munnam.jpeg" width="100px; alt="Abdul Munnam"/>
                     <br />
                     <sub><b>Abdul Munnam</b></sub>
                 </a> 
             </td>
            <td align="center">
                 <a href="https://www.linkedin.com/in/ifrah-tariq2/">
-                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQGGEhIM7Mza2w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1675455231367?e=1741824000&v=beta&t=oW2BYEKoykXgpqB0iMNtPq1XGCpdXXeQ5vqv3R-Ijko" width="100px; alt="Ifrah Tariq"/>
+                    <img src="https://github.com/M-Shaharyar/1pm-leetcode-practice-to-prepare-for-giant-techs/blob/main/images/Ifrah%20Tariq.jpeg" width="100px; alt="Ifrah Tariq"/>
                     <br />
-                    <sub><b>Muhammad Saqlain</b></sub>
+                    <sub><b>Ifrah Tariq</b></sub>
                 </a> 
             </td>
            <td align="center">
                 <a href="https://www.linkedin.com/in/afsheenghuman/">
-                    <img src="https://avatars.githubusercontent.com/u/67103449?v=4" width="100px;" alt="Afsheen Ghuman"/>
+                    <img src="https://github.com/M-Shaharyar/1pm-leetcode-practice-to-prepare-for-giant-techs/blob/main/images/Afsheen%20Ghuman.jpeg" width="100px;" alt="Afsheen Ghuman"/>
                     <br />
                     <sub><b>Afsheen Ghuman</b></sub>
                 </a> 
