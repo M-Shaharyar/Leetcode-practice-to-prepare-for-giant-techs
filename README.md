@@ -1,4 +1,4 @@
-# Welcome to 1 pm leetCode practice Session-ICodeGuru
+# Welcome to LeetCode Practice Course
 **Here, You'll Find:**
 <br>
 The repository contains all the course-relevant material, such as slides, lecture recordings, and leetCode problem links.
@@ -9,8 +9,6 @@ The repository contains all the course-relevant material, such as slides, lectur
 **LinkedIn Post:** [Click here](https://www.linkedin.com/posts/muhammad-shaharyar-sarwar_icodeguru-leetcode-problemsolving-activity-7245366355246411776-IYw8?utm_source=share&utm_medium=member_desktop)
 
 **Presenters Names:** [Click here](https://docs.google.com/spreadsheets/d/1y15OtddQcgPMXJeaTbHz687OavvLrTEjzEv-9cNnNeo/edit?usp=sharing)
-
-**Join Our Community on [iCodeGuru](https://icode.guru/join/)**
 
 # Trainers & Moderators
 
